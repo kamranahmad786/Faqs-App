@@ -18,7 +18,7 @@
 .question {
   color: #52606d;
   font-family: 'Roboto';
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
 }
 
@@ -55,5 +55,5 @@
 }
 
 .horizontal-line {
-  border: 1px solid #e4e7eb;
+  border: 2px solid #e4e7eb;
 }
